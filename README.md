@@ -13,4 +13,4 @@ local.
 git clone url name-directory
 
 #Instalando os plugins
-npm install && bower && gulp
+npm install && bower install && gulp
