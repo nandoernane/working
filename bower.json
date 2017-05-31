@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "description": "Working",
+  "main": "index.js",
+  "authors": [
+    "Nando Ernane"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "working",
+    "ambiente",
+    "desenvolvimento"
+  ],
+  "homepage": "https://github.com/nandoernane/working.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
